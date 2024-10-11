@@ -10,7 +10,6 @@ paperurl: 'https://openreview.net/forum?id=JMRvA73SIV'
 citation: '<strong>Xiwen Wei</strong>, Guihong Li, & Radu Marculescu. (2024). &quot;Fairness Implications of Machine Unlearning: Bias Risks in Removing NSFW Content from Text-to-Image Models.&quot; <i>NeurIPS 2024 Workshop on Regulatable ML</i>.'
 ---
 
-
 ```
 @inproceedings{
 wei2024fairness,

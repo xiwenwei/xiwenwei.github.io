@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "About me"
 author_profile: true
 redirect_from: 
@@ -17,6 +18,7 @@ News
 
 Projects
 ======
+
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
@@ -40,6 +42,3 @@ Projects
   {% endfor %}
 {% endif %}
 
-<!-- 
-Services
-======= -->
