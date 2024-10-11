@@ -1,9 +1,8 @@
 ---
 title: "Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation"
 collection: publications
-category: conferences
+category: preprints
 permalink: /publication/2024-olora
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-10-01
 venue: 'NeurIPS 2024 Workshop on Scalable Continual Learning for Lifelong Foundation Models'
 paperurl: 'https://openreview.net/pdf?id=X7OKRr09OS'
