@@ -16,8 +16,8 @@ My research interests lie in continual learning and trustworthy AI.
 News
 ======
 
-* [November 2024] [Online-LoRA](https://github.com/Christina200/Online-LoRA-official.git) got accepted by WACV. See you in Tucson!
-* [October 2024] Two papers got accepted by 2nd Workshop on Regulatable ML and Continual FoMo Workshop @NeurIPS2024. See you in Vancuver!
+* [November 2024] [Online-LoRA](https://github.com/Christina200/Online-LoRA-official.git) got accepted by [WACV](https://wacv2025.thecvf.com/). See you in Tucson!
+* [October 2024] Two papers got accepted by [2nd Workshop on Regulatable ML](https://regulatableml.github.io/) and [Continual FoMo Workshop](https://sites.google.com/view/continual-fomo-workshop) @NeurIPS2024. See you in Vancuver!
 
 Projects
 ======
