@@ -3,9 +3,9 @@ title: "Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation
 collection: publications
 category: preprints
 permalink: /publication/2024-olora
-date: 2024-11-01
+date: 2025-03-01
 venue: 'Proc. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
-paperurl: ''
+paperurl: 'files/Online-LoRA_WACV2025_page.pdf'
 citation: '<strong>Xiwen Wei</strong>, Guihong Li, & Radu Marculescu. (2025). &quot;Online-LoRA: Task-free Online Continual Learning via Low Rank Adaptation.&quot; <i>Proc. IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</i>.'
 ---
 
