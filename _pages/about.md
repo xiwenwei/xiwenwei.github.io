@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Xiwen Wei (Christina), a second-year Electrical and Computer Engineering Ph.D. student at The University of Texas at Austin (UT Austin) since Fall 2023, advised by [Prof. Radu Marculescu](https://www.ece.utexas.edu/people/faculty/radu-marculescu). 
+Hi, this is Xiwen Wei (Christina), a second-year Electrical and Computer Engineering Ph.D. student at [The University of Texas at Austin (UT Austin)](https://www.ece.utexas.edu/) since Fall 2023. 
 Before joining UT Austin, I received my B.S. degrees in Electrical Engineering at [University of Michigan, Ann Arbor](https://www.engin.umich.edu/), and in Electrical and Computer Engineering at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
 My research interests lie in continual learning and trustworthy AI. 
