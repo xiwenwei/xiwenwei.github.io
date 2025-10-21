@@ -17,7 +17,7 @@ News
 ======
 
 * [October 2025] [MoDE](https://neurips.cc/virtual/2025/poster/119308) got accepted by [NeurIPS 2025](https://neurips.cc/). See you in San Diego! 
-* [November 2024] [Online-LoRA](https://github.com/Christina200/Online-LoRA-official.git) got accepted by [WACV](https://wacv2025.thecvf.com/). See you in Tucson!
+* [November 2024] [Online-LoRA](https://github.com/Christina200/Online-LoRA-official.git) got accepted by [WACV 2025](https://wacv2025.thecvf.com/). See you in Tucson!
 * [October 2024] Two papers got accepted by [2nd Workshop on Regulatable ML](https://regulatableml.github.io/) and [Continual FoMo Workshop](https://sites.google.com/view/continual-fomo-workshop) @NeurIPS2024. See you in Vancouver!
 
 Projects
