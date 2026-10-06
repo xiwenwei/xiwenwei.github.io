@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xiwen (Christina) Wei, a Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.utexas.edu/) at [The University of Texas at Austin (UT Austin)](https://www.utexas.edu/), expecting to graduate in Spring 2027. 
+Hi, I'm Xiwen (Christina) Wei, a Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.ece.utexas.edu/) at [The University of Texas at Austin (UT Austin)](https://www.utexas.edu/), expecting to graduate in 2027. 
 My research interests include multimodal foundation models, LLM agents, and continual learning. 
 I previously interned at [AMD](https://www.amd.com/en/corporate/research.html) and [Zillow](https://www.zillow.com/). 
 
 Before joining UT Austin, I received my B.S. degrees in Electrical Engineering from [University of Michigan, Ann Arbor](https://www.engin.umich.edu/), and in Electrical and Computer Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
-**I’m seeking full-time opportunities starting in 2027 in machine learning, with a focus on LLM agents and multimodal foundation models. Please feel free to reach out!**
+**I’m seeking full-time and internship opportunities starting in 2027 in machine learning, with a focus on LLM agents and multimodal foundation models. Please feel free to reach out!**
 
 News
 ======
