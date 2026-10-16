@@ -19,7 +19,7 @@ Before joining UT Austin, I received my B.S. degrees in Electrical Engineering f
 News
 ======
 
-* [October 2026] [Pareto LoRA](https://arxiv.org/abs/2606.17296) was accepted by [WACV 2027](https://wacv.thecvf.com/). See you in Orlando!
+* [October 2026] [Pareto LoRA](https://arxiv.org/abs/2606.17296), work from my research internship at AMD, was accepted by [WACV 2027](https://wacv.thecvf.com/). See you in Orlando!
 * [May 2026] Happy to join [Zillow](https://www.zillow.com/) as an Applied Scientist Intern, working on LLM-based user simulation for conversational agents!
 * [October 2025] [MoDE](https://neurips.cc/virtual/2025/poster/119308) was accepted by [NeurIPS 2025](https://neurips.cc/). See you in San Diego!
 * [May 2025] Happy to join [AMD RAD Team](https://www.amd.com/en/corporate/research.html) as a PhD Research Associate Intern, working on fine-tuning large-scale unified multimodal foundation models!
